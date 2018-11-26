@@ -1,0 +1,7 @@
+rho = 1156.432
+speed = 1045
+pressure = 200.11
+u = 10
+v = 10
+height = 10
+width = 10
